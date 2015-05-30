@@ -1,1 +1,2 @@
-# cmdscripts
+# Various useful command line scripts
+
