@@ -1,0 +1,9 @@
+#!/bin/bash
+
+
+
+
+ssh -i ~/.ssh/zundra_rsa zundra@gateway.bluebox.com  -v -A
+
+
+

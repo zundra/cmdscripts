@@ -1,0 +1,5 @@
+#!/bin/bash
+umount /Users/zundra/code
+cd ~/MacCode/vagrant/fullstackdev
+vagrant halt 
+

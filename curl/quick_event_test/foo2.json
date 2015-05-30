@@ -1,0 +1,17 @@
+{
+    "account_id": "8c1178f0-c8b1-4979-8438-c317c0f04e96",
+    "agent": "AndroidAgent",
+    "bundleid": "com.smartsheet.android",
+    "device_product": "BMF",
+    "device_vendor": "Bluebox",
+    "device_version": "1.0.0",
+    "msg": "Intent { act=android.intent.action.VIEW dat=https://www.smartsheet.com/videos }",
+    "name": "View document",
+    "severity": 4,
+    "signature_id": 6666,
+    "suid": "b384ef39-1f96-4471-be89-92009de2656d",
+    "suser": "foobar",
+    "udid": "9d28fad63a9b17a966dd5bd1c11f2211abc2bf88",
+    "version": 1
+}
+

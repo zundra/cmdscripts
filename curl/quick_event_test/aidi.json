@@ -1,0 +1,15 @@
+{
+    "agent": "test",
+    "device_version": "1.0.0",
+    "version": 0,
+    "device_vendor": "Bluebox",
+    "device_product": "BMF",
+    "signature_id": 3301,
+    "name": "kc test",
+    "severity": 4,
+    "bundleid": "com.bluebox.com.getdropbox.Dropbox",
+    "msg": "{}",
+    "udid": "9d28fad63a9b17a966dd5bd1c11f2211abc2bf88",
+    "fname": "foo.file.txt",
+    "fsize": 1377
+}

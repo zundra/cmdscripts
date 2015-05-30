@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ~/MacCode/vagrant/fullstackdev
+vagrant up
+mount -t smbfs '//172.28.128.2/code' /Users/zundra/code

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ssh -i ~/.ssh/zundra_rsa.pub zundra@104.239.138.86  -v -A -p 33333 
+
